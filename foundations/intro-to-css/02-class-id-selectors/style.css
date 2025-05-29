@@ -1,0 +1,19 @@
+.Number{
+  background-color: lightcoral;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#Number2{
+  font-size: 36px;
+  color: blue;
+}
+
+.Number.three{
+  font-size: 24px;
+}
+
+#Number4{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: 900;
+}
