@@ -1,0 +1,11 @@
+.Button {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+.Button.Click{
+  background-color: black;
+  color: white;
+}
+.Button.NoClick{
+  background-color: yellow;
+}
